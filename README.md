@@ -1,13 +1,12 @@
 # Getting-and-Cleaning-Data-Project
 Getting and Cleaning Data Project
 
-This is the project for the Getting and Cleaning Data course. The R script, run_analysis.R, does the following:
+This is the project for the Getting and Cleaning Data course. 
+The R script, run_analysis.R, does the following:
 
-Sets working database
-
-Loads the activity and feature info
-
-Loads both the training and test datasets, keeping the columns which reflect a mean or standard deviation
+1. Sets working database.
+2. Loads the activity and feature info.
+3. Loads both the training and test datasets, keeping the columns which reflect a mean or standard deviation
 
 Loads the activity data and subject data for each dataset, and then merges those columns with the dataset
 
