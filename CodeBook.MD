@@ -92,8 +92,13 @@ Activity - The type of activity measured
 ## Activity Labels
 
 `WALKING`  volunteer was walking.
+
 `WALKING_UPSTAIRS`  volunteer was walking up a staircase.
+
 `WALKING_DOWNSTAIRS`  volunteer was walking down a staircase.
+
 `SITTING`  volunteer was sitting.
+
 `STANDING`  volunteer was standing.
+
 `LAYING`  volunteer was laying down.
